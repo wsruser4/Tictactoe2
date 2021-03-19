@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tictactoe2</string>
+    <string name="x">x</string>
+    <string name="o">o</string>
+    <string name="no" />
+    <string name="repeat">Заново</string>
+</resources>
